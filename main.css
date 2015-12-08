@@ -1,0 +1,64 @@
+body{
+	background-color:rgb(153,255,255);
+	
+}
+
+.Jumbotron .container{
+	text-align: center;
+	
+}
+.Jumbotron .container h1{
+		font-size: 200px;
+		background-image: url(https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/t31.0-8/11427904_10205743588222774_9140368958325607094_o.jpg);
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+	}
+.Jumbotron .container p{
+		font-size: 30px;
+	}
+.Learn-more .container{
+	text-align: center;
+}
+.Learn-more .container h3{
+	font-size: 25px;
+}
+
+.nav .container h1{
+	text-align: center;
+	font-size: 50px;
+}
+.nav .container {
+	text-align:center;
+}
+.nav .container p{
+	font-size: 30px;
+}
+.nav .container li{
+	font-size: 25px;
+}
+.school .container h1{
+	text-align: center;
+	font-size: 50px;
+}
+.school .container li{
+	font-size: 30px;
+}
+.school .container p{
+	font-size: 25px;
+}
+.nav .container h3{
+	font-size: 30px;
+}
+
+.nav .container img{
+	padding: 10px;
+	border: 15px solid rgb(256,256,256);
+}
+.school .container img{
+	padding: 10px;
+	border: 15px solid rgb(256,256,256);
+}
+
+
+
+
